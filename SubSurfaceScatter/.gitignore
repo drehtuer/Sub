@@ -1,8 +1,3 @@
 bin
 build
 lib
-*.png
-*.jpg
-*.obj
-*.max
-*.blend
