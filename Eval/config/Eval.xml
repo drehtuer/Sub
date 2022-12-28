@@ -1,0 +1,67 @@
+<EvalConfig>
+  <Window>
+    <Width>1400</Width>
+    <Height>1000</Height>
+    <Fullscreen>1</Fullscreen>
+  </Window>
+  <ComparisonGroups>
+    <Group name="HandClosedBehindFar">
+      <Folder type="0">../../data/HandClosedBehindFar/0</Folder>
+      <Folder type="1">../../data/HandClosedBehindFar/1</Folder>
+    </Group>
+    <Group name="HandClosedBehindNear">
+      <Folder type="0">../../data/HandClosedBehindNear/0</Folder>
+      <Folder type="1">../../data/HandClosedBehindNear/1</Folder>
+    </Group>
+    <Group name="HandClosedSideFar">
+      <Folder type="0">../../data/HandClosedSideFar/0</Folder>
+      <Folder type="1">../../data/HandClosedSideFar/1</Folder>
+    </Group>
+    <Group name="HandClosedSideNear">
+      <Folder type="0">../../data/HandClosedSideNear/0</Folder>
+      <Folder type="1">../../data/HandClosedSideNear/1</Folder>
+    </Group>
+    
+    <Group name="HandOpenBehindFar">
+      <Folder type="0">../../data/HandOpenBehindFar/0</Folder>
+      <Folder type="1">../../data/HandOpenBehindFar/1</Folder>
+    </Group>
+    <Group name="HandOpenBehindNear">
+      <Folder type="0">../../data/HandOpenBehindNear/0</Folder>
+      <Folder type="1">../../data/HandOpenBehindNear/1</Folder>
+    </Group>
+    <Group name="HandOpenSideFar">
+      <Folder type="0">../../data/HandOpenSideFar/0</Folder>
+      <Folder type="1">../../data/HandOpenSideFar/1</Folder>
+    </Group>
+    <Group name="HandOpenSideNear">
+      <Folder type="0">../../data/HandOpenSideNear/0</Folder>
+      <Folder type="1">../../data/HandOpenSideNear/1</Folder>
+    </Group>
+    
+    <Group name="HeadBehindFar">
+      <Folder type="0">../../data/HeadBehindFar/0</Folder>
+      <Folder type="1">../../data/HeadBehindFar/1</Folder>
+    </Group>
+    <Group name="HeadBehindNear">
+      <Folder type="0">../../data/HeadBehindNear/0</Folder>
+      <Folder type="1">../../data/HeadBehindNear/1</Folder>
+    </Group>
+    <Group name="HeadSideFar">
+      <Folder type="0">../../data/HeadSideFar/0</Folder>
+      <Folder type="1">../../data/HeadSideFar/1</Folder>
+    </Group>
+    <Group name="HeadSideNear">
+      <Folder type="0">../../data/HeadSideNear/0</Folder>
+      <Folder type="1">../../data/HeadSideNear/1</Folder>
+    </Group>
+    
+  </ComparisonGroups>
+  <BlankTime>2000</BlankTime>
+  <BlockInput>5000</BlockInput>
+  <UseCounterbalancing>0</UseCounterbalancing>
+  <ParallelComparison>0</ParallelComparison>
+  <Results>
+    <Folder>../../data/Results</Folder>
+  </Results>
+</EvalConfig>

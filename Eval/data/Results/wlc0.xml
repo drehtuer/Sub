@@ -1,0 +1,189 @@
+<!DOCTYPE Results>
+<Results>
+<Id key="wlc0"/>
+<Questionaire>
+<Answer id="0">27</Answer>
+<Answer id="1">m</Answer>
+<Answer id="2">advanced</Answer>
+</Questionaire>
+<Comparison order="0">
+<First>../../data/HandOpenBehindFar/0/HandOpen_Light_behind_far_Jimenez.png</First>
+<Second>../../data/HandOpenBehindFar/1/HandOpen_Light_behind_far_Brand.png</Second>
+<Choice>1</Choice>
+</Comparison>
+<Comparison order="1">
+<First>../../data/HandOpenBehindNear/0/HandOpen_Light_behind_near_Jimenez.png</First>
+<Second>../../data/HandOpenBehindNear/1/HandOpen_Light_behind_near_Hable.png</Second>
+<Choice>0</Choice>
+</Comparison>
+<Comparison order="2">
+<First>../../data/HandOpenSideFar/0/HandOpen_Light_side_far_Jimenez.png</First>
+<Second>../../data/HandOpenSideFar/1/HandOpen_Light_side_far_Hable.png</Second>
+<Choice>0</Choice>
+</Comparison>
+<Comparison order="3">
+<First>../../data/HandClosedBehindNear/1/HandClosed_Light_behind_near_dEon.png</First>
+<Second>../../data/HandClosedBehindNear/0/HandClosed_Light_behind_near_Jimenez.png</Second>
+<Choice>1</Choice>
+</Comparison>
+<Comparison order="4">
+<First>../../data/HandClosedSideFar/1/HandClosed_Light_side_far_dEon.png</First>
+<Second>../../data/HandClosedSideFar/0/HandClosed_Light_side_far_Jimenez.png</Second>
+<Choice>1</Choice>
+</Comparison>
+<Comparison order="5">
+<First>../../data/HeadSideNear/1/Head_Light_side_near_Brand.png</First>
+<Second>../../data/HeadSideNear/0/Head_Light_side_near_Jimenez.png</Second>
+<Choice>0</Choice>
+</Comparison>
+<Comparison order="6">
+<First>../../data/HeadBehindNear/1/Head_Light_behind_near_Brand.png</First>
+<Second>../../data/HeadBehindNear/0/Head_Light_behind_near_Jimenez.png</Second>
+<Choice>0</Choice>
+</Comparison>
+<Comparison order="7">
+<First>../../data/HandOpenSideFar/0/HandOpen_Light_side_far_Jimenez.png</First>
+<Second>../../data/HandOpenSideFar/1/HandOpen_Light_side_far_Brand.png</Second>
+<Choice>0</Choice>
+</Comparison>
+<Comparison order="8">
+<First>../../data/HeadSideFar/1/Head_Light_side_far_dEon.png</First>
+<Second>../../data/HeadSideFar/0/Head_Light_side_far_Jimenez.png</Second>
+<Choice>1</Choice>
+</Comparison>
+<Comparison order="9">
+<First>../../data/HandOpenSideNear/1/HandOpen_Light_side_near_Brand.png</First>
+<Second>../../data/HandOpenSideNear/0/HandOpen_Light_side_near_Jimenez.png</Second>
+<Choice>1</Choice>
+</Comparison>
+<Comparison order="10">
+<First>../../data/HandOpenBehindNear/1/HandOpen_Light_behind_near_Brand.png</First>
+<Second>../../data/HandOpenBehindNear/0/HandOpen_Light_behind_near_Jimenez.png</Second>
+<Choice>0</Choice>
+</Comparison>
+<Comparison order="11">
+<First>../../data/HandOpenSideNear/0/HandOpen_Light_side_near_Jimenez.png</First>
+<Second>../../data/HandOpenSideNear/1/HandOpen_Light_side_near_dEon.png</Second>
+<Choice>0</Choice>
+</Comparison>
+<Comparison order="12">
+<First>../../data/HeadBehindNear/0/Head_Light_behind_near_Jimenez.png</First>
+<Second>../../data/HeadBehindNear/1/Head_Light_behind_near_dEon.png</Second>
+<Choice>0</Choice>
+</Comparison>
+<Comparison order="13">
+<First>../../data/HandOpenBehindNear/1/HandOpen_Light_behind_near_dEon.png</First>
+<Second>../../data/HandOpenBehindNear/0/HandOpen_Light_behind_near_Jimenez.png</Second>
+<Choice>0</Choice>
+</Comparison>
+<Comparison order="14">
+<First>../../data/HandClosedSideFar/1/HandClosed_Light_side_far_Hable.png</First>
+<Second>../../data/HandClosedSideFar/0/HandClosed_Light_side_far_Jimenez.png</Second>
+<Choice>1</Choice>
+</Comparison>
+<Comparison order="15">
+<First>../../data/HeadSideFar/0/Head_Light_side_far_Jimenez.png</First>
+<Second>../../data/HeadSideFar/1/Head_Light_side_far_Brand.png</Second>
+<Choice>0</Choice>
+</Comparison>
+<Comparison order="16">
+<First>../../data/HandClosedBehindNear/1/HandClosed_Light_behind_near_Hable.png</First>
+<Second>../../data/HandClosedBehindNear/0/HandClosed_Light_behind_near_Jimenez.png</Second>
+<Choice>1</Choice>
+</Comparison>
+<Comparison order="17">
+<First>../../data/HandClosedSideFar/1/HandClosed_Light_side_far_Brand.png</First>
+<Second>../../data/HandClosedSideFar/0/HandClosed_Light_side_far_Jimenez.png</Second>
+<Choice>0</Choice>
+</Comparison>
+<Comparison order="18">
+<First>../../data/HandOpenSideNear/0/HandOpen_Light_side_near_Jimenez.png</First>
+<Second>../../data/HandOpenSideNear/1/HandOpen_Light_side_near_Hable.png</Second>
+<Choice>0</Choice>
+</Comparison>
+<Comparison order="19">
+<First>../../data/HeadBehindFar/1/Head_Light_behind_far_Brand.png</First>
+<Second>../../data/HeadBehindFar/0/Head_Light_behind_far_Jimenez.png</Second>
+<Choice>0</Choice>
+</Comparison>
+<Comparison order="20">
+<First>../../data/HandClosedSideNear/1/HandClosed_Light_side_near_Brand.png</First>
+<Second>../../data/HandClosedSideNear/0/HandClosed_Light_side_near_Jimenez.png</Second>
+<Choice>0</Choice>
+</Comparison>
+<Comparison order="21">
+<First>../../data/HandClosedBehindFar/1/HandClosed_Light_behind_far_Brand.png</First>
+<Second>../../data/HandClosedBehindFar/0/HandClosed_Light_behind_far_Jimenez.png</Second>
+<Choice>0</Choice>
+</Comparison>
+<Comparison order="22">
+<First>../../data/HeadSideNear/0/Head_Light_side_near_Jimenez.png</First>
+<Second>../../data/HeadSideNear/1/Head_Light_side_near_dEon.png</Second>
+<Choice>0</Choice>
+</Comparison>
+<Comparison order="23">
+<First>../../data/HandClosedSideNear/1/HandClosed_Light_side_near_Hable.png</First>
+<Second>../../data/HandClosedSideNear/0/HandClosed_Light_side_near_Jimenez.png</Second>
+<Choice>1</Choice>
+</Comparison>
+<Comparison order="24">
+<First>../../data/HeadSideFar/0/Head_Light_side_far_Jimenez.png</First>
+<Second>../../data/HeadSideFar/1/Head_Light_side_far_Hable.png</Second>
+<Choice>0</Choice>
+</Comparison>
+<Comparison order="25">
+<First>../../data/HeadBehindFar/1/Head_Light_behind_far_Hable.png</First>
+<Second>../../data/HeadBehindFar/0/Head_Light_behind_far_Jimenez.png</Second>
+<Choice>1</Choice>
+</Comparison>
+<Comparison order="26">
+<First>../../data/HandClosedBehindFar/1/HandClosed_Light_behind_far_Hable.png</First>
+<Second>../../data/HandClosedBehindFar/0/HandClosed_Light_behind_far_Jimenez.png</Second>
+<Choice>1</Choice>
+</Comparison>
+<Comparison order="27">
+<First>../../data/HandClosedBehindFar/1/HandClosed_Light_behind_far_dEon.png</First>
+<Second>../../data/HandClosedBehindFar/0/HandClosed_Light_behind_far_Jimenez.png</Second>
+<Choice>1</Choice>
+</Comparison>
+<Comparison order="28">
+<First>../../data/HandClosedSideNear/1/HandClosed_Light_side_near_dEon.png</First>
+<Second>../../data/HandClosedSideNear/0/HandClosed_Light_side_near_Jimenez.png</Second>
+<Choice>1</Choice>
+</Comparison>
+<Comparison order="29">
+<First>../../data/HandOpenBehindFar/1/HandOpen_Light_behind_far_Hable.png</First>
+<Second>../../data/HandOpenBehindFar/0/HandOpen_Light_behind_far_Jimenez.png</Second>
+<Choice>1</Choice>
+</Comparison>
+<Comparison order="30">
+<First>../../data/HeadBehindFar/1/Head_Light_behind_far_dEon.png</First>
+<Second>../../data/HeadBehindFar/0/Head_Light_behind_far_Jimenez.png</Second>
+<Choice>1</Choice>
+</Comparison>
+<Comparison order="31">
+<First>../../data/HandOpenBehindFar/1/HandOpen_Light_behind_far_dEon.png</First>
+<Second>../../data/HandOpenBehindFar/0/HandOpen_Light_behind_far_Jimenez.png</Second>
+<Choice>0</Choice>
+</Comparison>
+<Comparison order="32">
+<First>../../data/HandClosedBehindNear/1/HandClosed_Light_behind_near_Brand.png</First>
+<Second>../../data/HandClosedBehindNear/0/HandClosed_Light_behind_near_Jimenez.png</Second>
+<Choice>0</Choice>
+</Comparison>
+<Comparison order="33">
+<First>../../data/HandOpenSideFar/0/HandOpen_Light_side_far_Jimenez.png</First>
+<Second>../../data/HandOpenSideFar/1/HandOpen_Light_side_far_dEon.png</Second>
+<Choice>0</Choice>
+</Comparison>
+<Comparison order="34">
+<First>../../data/HeadSideNear/0/Head_Light_side_near_Jimenez.png</First>
+<Second>../../data/HeadSideNear/1/Head_Light_side_near_Hable.png</Second>
+<Choice>0</Choice>
+</Comparison>
+<Comparison order="35">
+<First>../../data/HeadBehindNear/1/Head_Light_behind_near_Hable.png</First>
+<Second>../../data/HeadBehindNear/0/Head_Light_behind_near_Jimenez.png</Second>
+<Choice>1</Choice>
+</Comparison>
+</Results>
